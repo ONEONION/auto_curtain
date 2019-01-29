@@ -1,2 +1,2 @@
 # auto_curtain
-IOT - smart curtain system
+IOT - auto (not smart enough) curtain system
